@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
 #    vendor/dk/prebuilt/etc/init.local.rc:root/init.dk.rc
 
 # Additional packages
-#-include vendor/dk/config/packages.mk
+-include vendor/dk/config/packages.mk
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/dk/overlay
 
