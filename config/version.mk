@@ -1,5 +1,5 @@
 # Used to display the version
-DK_VERSION_SHORT := N
+DK_VERSION_SHORT := N-1
 DK_VERSION := DarkKat-$(DK_VERSION_SHORT)
 # Used to display the build version
 DK_BUILD_VERSION := $(BUILD_ID)-$(shell date +%Y%m%d)
