@@ -1,2 +1,4 @@
 # Additional packages
-PRODUCT_PACKAGES += DKWeatherService
+PRODUCT_PACKAGES += \
+    DKWeatherService \
+    Eleven
