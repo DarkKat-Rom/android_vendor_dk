@@ -1,5 +1,4 @@
 # Additional packages
 PRODUCT_PACKAGES += \
     DKWeatherService \
-    Eleven \
-    NougatNotificationTest
+    Eleven
