@@ -4,4 +4,5 @@ PRODUCT_PACKAGES += \
     DKWallpapers \
     DKWeatherService \
     Eleven \
+    NougatNotificationTest \
     Terminal
