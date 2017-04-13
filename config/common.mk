@@ -15,6 +15,9 @@ PRODUCT_COPY_FILES += \
     vendor/dk/prebuilt/bin/50-hosts.sh:system/addon.d/50-hosts.sh \
     vendor/dk/prebuilt/bin/blacklist:system/addon.d/blacklist
 
+# Additional packages
+-include vendor/dk/config/packages.mk
+
 PRODUCT_PACKAGE_OVERLAYS += vendor/dk/overlay
 
 # Versionning
