@@ -4,16 +4,18 @@
          on the current state of the device.
          Each item must be one of the following strings:
          "power" = Power off
-         "restart" = Restart
          "settings" = An action to launch settings
          "airplane" = Airplane mode toggle
          "bugreport" = Take bug report, if available
          "silent" = silent mode
          "users" = list of users
+         "restart" = restart device
+         "advanced_restart" = Advanced restart menu
          -->
     <string-array translatable="false" name="config_globalActionsList">
         <item>power</item>
         <item>restart</item>
+        <item>advanced_restart</item>
         <item>silent</item>
     </string-array>
 
