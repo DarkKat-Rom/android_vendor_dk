@@ -2,6 +2,6 @@
 PRODUCT_PACKAGES += \
     DKSettings \
     DKWallpapers \
-    DKWeatherService \
+    DKWeather \
     Eleven \
     Terminal
