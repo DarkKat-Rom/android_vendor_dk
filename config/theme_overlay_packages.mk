@@ -28,6 +28,16 @@ PRODUCT_PACKAGES += \
     DKSettingsDarkThemeOverlay \
     DKSettingsWhiteoutThemeOverlay
 
+# DK Weather overlay themes
+PRODUCT_PACKAGES += \
+    DKWeatherBlackoutThemeOverlay \
+    DKWeatherDarkKatBlackThemeOverlay \
+    DKWeatherDarkKatLightThemeOverlay \
+    DKWeatherDarkKatThemeOverlay \
+    DKWeatherDarkKatWhiteOverlay \
+    DKWeatherDarkThemeOverlay \
+    DKWeatherWhiteoutThemeOverlay
+
 # Terminal overlay themes
 PRODUCT_PACKAGES += \
     TerminalBlackoutThemeOverlay \
