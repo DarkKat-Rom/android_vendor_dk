@@ -17,33 +17,3 @@ PRODUCT_PACKAGES += \
     SysuiDarkKatWhiteOverlay \
     SysuiDarkThemeOverlay \
     SysuiWhiteoutThemeOverlay
-
-# DK Settings overlay themes
-PRODUCT_PACKAGES += \
-    DKSettingsBlackoutThemeOverlay \
-    DKSettingsDarkKatBlackThemeOverlay \
-    DKSettingsDarkKatLightThemeOverlay \
-    DKSettingsDarkKatThemeOverlay \
-    DKSettingsDarkKatWhiteOverlay \
-    DKSettingsDarkThemeOverlay \
-    DKSettingsWhiteoutThemeOverlay
-
-# DK Weather overlay themes
-PRODUCT_PACKAGES += \
-    DKWeatherBlackoutThemeOverlay \
-    DKWeatherDarkKatBlackThemeOverlay \
-    DKWeatherDarkKatLightThemeOverlay \
-    DKWeatherDarkKatThemeOverlay \
-    DKWeatherDarkKatWhiteOverlay \
-    DKWeatherDarkThemeOverlay \
-    DKWeatherWhiteoutThemeOverlay
-
-# Terminal overlay themes
-PRODUCT_PACKAGES += \
-    TerminalBlackoutThemeOverlay \
-    TerminalDarkKatBlackThemeOverlay \
-    TerminalDarkKatLightThemeOverlay \
-    TerminalDarkKatThemeOverlay \
-    TerminalDarkKatWhiteOverlay \
-    TerminalDarkThemeOverlay \
-    TerminalWhiteoutThemeOverlay
