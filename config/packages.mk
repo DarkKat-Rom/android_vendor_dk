@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     DKSettings \
     DKWeather \
+    Eleven \
     Terminal
 
 # Additional theme overlay packages
