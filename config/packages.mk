@@ -1,5 +1,6 @@
 # Additional packages
 PRODUCT_PACKAGES += \
+    DKNotificationTest \
     DKSettings \
     DKWeather \
     Eleven \
