@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     DKNotificationTest \
     DKSettings \
+    DKWallpapers \
     DKWeather \
     Eleven \
     Terminal
