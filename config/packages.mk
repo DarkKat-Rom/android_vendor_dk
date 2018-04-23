@@ -5,7 +5,8 @@ PRODUCT_PACKAGES += \
     DKWallpapers \
     DKWeather \
     Eleven \
-    Terminal
+    Terminal \
+    WallpaperPicker
 
 # Additional theme overlay packages
 -include vendor/dk/config/theme_overlay_packages.mk
